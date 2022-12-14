@@ -11,6 +11,7 @@ int main()
 	}
 
 	std::cout << "Closed SuccessfUl" << std::endl;
+	std::cout << "Hello world" << std::endl;
 	std::cin.get();
 	return 0;
 }

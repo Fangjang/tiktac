@@ -12,7 +12,7 @@ int main()
 
 	for (int i = 0; i < 5; i++)
 	{
-		std::cout << i << std::endl;
+		std::cout << "COndo kha" << std::endl;
 	}
 
 	std::cout << "Closed SuccessfUl" << std::endl;

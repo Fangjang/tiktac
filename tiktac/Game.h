@@ -38,7 +38,6 @@ private:
 	};
 		//Game State
 		bool menuState;
-		bool gameOver;
 
 	//Game Variables
 		//Texts
@@ -47,8 +46,8 @@ private:
 	sf::Text text_Credit;
 	sf::Text text_Exit;
 		//Audios
-	sf::Sound click;
-	sf::Sound gameOver;
+	sf::Sound click_Sound;
+	sf::Sound gameOver_Sound;
 	sf::SoundBuffer click_Buffer;
 	sf::SoundBuffer gameOver_Buffer;
 	

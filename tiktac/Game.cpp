@@ -30,6 +30,7 @@ void Game::pollEvents() {
 		{
 		case sf::Event::Closed:
 			window->close();
+			break;
 		}
 	}
 }

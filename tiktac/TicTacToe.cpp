@@ -10,8 +10,12 @@ int main()
 		tictac.render();
 	}
 
+	for (int i = 0; i < 5; i++)
+	{
+		std::cout << i << std::endl;
+	}
+
 	std::cout << "Closed SuccessfUl" << std::endl;
-	std::cout << "Hello world" << std::endl;
 	std::cin.get();
 	return 0;
 }

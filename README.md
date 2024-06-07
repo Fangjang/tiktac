@@ -1,2 +1,2 @@
 # tiktac
-TIK-TAC-TOE made in c++
+GUI TIK-TAC-TOE made in c++
